@@ -1,0 +1,1 @@
+https://epistat.sciensano.be/Data/COVID19BE_VACC.csv  ===>>> vaccination campaign covid
